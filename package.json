@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt793/MCP-Browser-Gemain-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/matt793/MCP-Browser-Gemain-App/issues"
+  },
+  "homepage": "https://github.com/matt793/MCP-Browser-Gemain-App#readme",
+  "dependencies": {
+    "@browsermcp/mcp": "^0.1.3"
+  }
+}
