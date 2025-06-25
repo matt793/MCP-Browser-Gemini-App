@@ -1,28 +1,28 @@
-# Ignore Node.js modules
+# Node.js
 node_modules/
-
-# Ignore package lock files
-package-lock.json
-npm-shrinkwrap.json
-yarn.lock
-pnpm-lock.yaml
-
-# Ignore OS-generated files
-.DS_Store
-Thumbs.db
-
-# Ignore log files
-*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-lerna-debug.log*
+package-lock.json
+npm-shrinkwrap.json
 
-# Ignore editor directories and files
-.idea
-.vscode
+# Environment variables
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# Log files
+logs
+*.log
+lerna-debug.log*

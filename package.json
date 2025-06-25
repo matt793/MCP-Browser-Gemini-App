@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/matt793/MCP-Browser-Gemain-App#readme",
   "dependencies": {
-    "@browsermcp/mcp": "^0.1.3"
+    "@browsermcp/mcp": "^0.1.3",
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.5.0"
   }
 }
